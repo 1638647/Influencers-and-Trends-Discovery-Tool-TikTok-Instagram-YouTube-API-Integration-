@@ -4,8 +4,8 @@ import os
 import http.client
 
 headers = {
-'x-rapidapi-key': "2f530f853amsh37bb814a5067f67p190d13jsnec30f6137e08",
-'x-rapidapi-host': "scraptik.p.rapidapi.com"
+'x-rapidapi-key': "x",
+'x-rapidapi-host': "x"
 }
 
 def df_creators(ruta_archivo):
