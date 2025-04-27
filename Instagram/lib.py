@@ -4,8 +4,8 @@ import http.client
 from datetime import datetime, timedelta, timezone
 
 headers = {
-    'x-rapidapi-key': "0dae339b96msh77da504237e48fap1b8ed6jsnb5dfc08908d7",
-    'x-rapidapi-host': "instagram-looter2.p.rapidapi.com"
+    'x-rapidapi-key': "x",
+    'x-rapidapi-host': "x"
 }
 
 
